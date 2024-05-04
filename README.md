@@ -137,6 +137,25 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) User.update("98bea5de-9cb0-4d78-8a9d-c4de03521c30", {'name': 'Fred the Frog', 'age': 9})
 (hbnb)
 (hbnb) User.all()
+# AirBnB clone - The console
+
+## Description
+
+This is the second version of our AirBnB clone project. It is a command-line interpreter that manages AirBnB objects.
+
+## How to use
+
+Clone the repository, navigate to the folder, and start the console by running `./console.py`.
+
+## Authors
+
+- Original authors:
+  - Holberton School students:
+    - David John Coleman II
+    - Robert Malmstein
+    - Doug IV
+- New version:
+  - Abel Eyasu
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
